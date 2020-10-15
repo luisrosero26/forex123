@@ -2,12 +2,12 @@ chunks:
 - content: ''
   flows:
   - flow_id: flow14
-    next_flow: null
+    next_flow: quiz15
     pages:
     - flow_id: page35
       title: dia 1
     title: Semana 1
-    title_next_flow: ''
+    title_next_flow: quiz
   id: welcome
   introduction: <p>fds fdsf dsfds fds</p>
   rules: []

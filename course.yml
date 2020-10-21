@@ -8,6 +8,13 @@ chunks:
       title: dia 1
     title: Semana 1
     title_next_flow: quiz
+  - flow_id: flow18
+    next_flow: quiz19
+    pages:
+    - flow_id: page41
+      title: CONT 1
+    title: Semana 2
+    title_next_flow: QUIZ 1 SOLO INTENTO
   id: welcome
   introduction: <p>fds fdsf dsfds fds</p>
   rules: []

@@ -1,0 +1,27 @@
+completion_text: |-
+  <p>sdasdasd</p>
+description: |-
+  asdasds
+next_flow_id: quiz19
+next_flow_title: QUIZ 1 SOLO INTENTO
+pages:
+- content: |-
+    <p>dasdas</p>
+  id: intro
+  title: Inicio
+  type: Page
+- content: |-
+    <p>ASDASDASDASDAS</p>
+  id: page41
+  title: CONT 1
+  type: Page
+rules:
+  access:
+  - if_has_role:
+    - ta
+    - student
+    - instructor
+    permissions:
+    - view
+  grade_identifier: null
+title: Semana 2
